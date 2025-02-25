@@ -1,6 +1,7 @@
 # Supplementary data
 ## Conformational dynamics of the histone H3 tail in the nucleosome: an NMR spectroscopy study, providing mechanistic insight into the details of interactions with DNA
-[Motorin Nikita A., Mironov Pavel A., Fedulova Anastasiia S., Armeev Grigoriy A., Paramonov Alexander S., Shenkarev Zakhar O.,  Shaytan Alexey K.](ссылка на статью)
+by Motorin et al.
+
 
 ### GitHub repository
 [https://github.com/intbio/2025_NCP_tails_MD](https://github.com/intbio/2025_NCP_tails_MD)
