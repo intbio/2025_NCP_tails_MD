@@ -1,5 +1,5 @@
-### N<sub>cH2A</sub><sup>run_1</sup> - Canonical nucleosome with full tails (PDB ID 5AV9)
-[Back](https://intbio.github.io/Kosarim_et_al_2024)
+### NCP<sub>150 mM</sub><sup>run_1</sup> - MD simulation trajectory of nucleosome core particle with full tails in solution with 150 mM NaCl (PDB ID 3LZ0), run_1
+[Back](https://intbio.github.io/2025_NCP_tails_MD)
 
 <html lang="en">
   <head>
@@ -48,9 +48,9 @@
 <script src="https://unpkg.com/ngl@2.0.0-dev.35/dist/ngl.js"></script>
 <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
 <script>
-  var pdb="trj/canon_nucl_for_web.pdb"
-  var xtc="trj/canon_nucl_for_web.xtc"
-  var csvfile="dat/cH2A_dist_unwrap.csv"
+  var pdb="trj/wt_for_web.pdb"
+  var xtc="trj/wt_for_web.xtc"
+  var csvfile="dat/wt_dist_unwrap.csv"
   var trjstep = 10;
   $(document).ready(function() {
     window.stage = new NGL.Stage("viewport0", {
