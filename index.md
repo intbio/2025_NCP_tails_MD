@@ -10,8 +10,8 @@ by Motorin et al.
 - [NCP<sub>150 mM</sub><sup>run_1</sup> - MD simulation trajectory of nucleosome core particle with full tails in solution with 150 mM NaCl (PDB ID 3LZ0), run_1](nucl_150_1_trj_preview)
 - [NCP<sub>150 mM</sub><sup>run_2</sup> - MD simulation trajectory of nucleosome core particle with full tails in solution with 150 mM NaCl (PDB ID 3LZ0), run_2](nucl_150_2_trj_preview)
 - [NCP<sub>150 mM</sub><sup>run_3</sup> - MD simulation trajectory of nucleosome core particle with full tails in solution with 150 mM NaCl (PDB ID 3LZ0), run_3](nucl_150_3_trj_preview)
-- [NCP<sub>100 mM</sub> - MD simulation trajectory of nucleosome core particle with full tails in solution with 100 mM NaCl (PDB ID 3LZ0), run_1](nucl_100_trj_preview)
-- [NCP<sub>20 mM</sub> - MD simulation trajectory of nucleosome core particle with full tails in solution with 20 mM NaCl (PDB ID 3LZ0), run_1](nucl_20_trj_preview)
+- [NCP<sub>100 mM</sub> - MD simulation trajectory of nucleosome core particle with full tails in solution with 100 mM NaCl (PDB ID 3LZ0)](nucl_100_trj_preview)
+- [NCP<sub>20 mM</sub> - MD simulation trajectory of nucleosome core particle with full tails in solution with 20 mM NaCl (PDB ID 3LZ0)](nucl_20_trj_preview)
 
 
 ### Trajectory files
